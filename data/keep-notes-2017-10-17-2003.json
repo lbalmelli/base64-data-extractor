@@ -1,0 +1,172 @@
+[
+    {
+        "date": "2017-07-21T10:34:00.000Z",
+        "title": "New airplane",
+        "content": "This is a new note about airplane. The text in the note is solely entered using voice to text translation.",
+        "labels": [
+            "Product",
+            "&#20181;&#20107;"
+        ],
+        "filename": "New airplane.html"
+    },
+    {
+        "date": "2017-09-17T11:33:52.000Z",
+        "title": "Pair of Glasses",
+        "content": "My ideas is about a pair of glasses that takes pictures while I run",
+        "labels": [
+            "Sport",
+            "Product",
+            "Sport",
+            "Product"
+        ],
+        "filename": "Pair of Glasses.html"
+    },
+    {
+        "date": "2017-09-17T11:35:08.000Z",
+        "title": "Another note with an image attached",
+        "content": "Check\nCheck\nCheck\nCheck",
+        "labels": [
+            "Super",
+            "Sport",
+            "Product",
+            "Sport",
+            "Product",
+            "Super"
+        ],
+        "filename": "Another note with an image attached.html"
+    },
+    {
+        "date": "2017-09-17T11:38:05.000Z",
+        "title": "Empty note",
+        "content": "",
+        "filename": "Empty note.html"
+    },
+    {
+        "date": "2017-09-17T11:42:21.000Z",
+        "title": "What machine learning can do about me",
+        "content": "Machine learns my habits through video analysis\nMachine learning my habits through geolocation\nMachine anticipate my needs make me a shake\nIntegrate voice recognition when generating ideas\nNew language for work\nNeeds anticipation to habits learning\nWhich function needs computer integration",
+        "filename": "What machine learning can do about me.html"
+    },
+    {
+        "date": "2017-09-17T11:45:25.000Z",
+        "title": "&#12371;&#12428;&#12399;&#12479;&#12452;&#12488;&#12523;&#12391;",
+        "content": " \nこの空間の中にあるテキストを入力しました.\n\nさらに画像を追加しました\n\n",
+        "filename": "これはタイトルで.html"
+    },
+    {
+        "date": "2017-09-17T12:12:34.000Z",
+        "title": "I have to switch the title to English",
+        "content": "This time on collecting a new note using the English voice to text automated translation so far it seems to work and I think I will be able to get on my ideas using that method in the easier way.",
+        "filename": "I have to switch the title to English.html"
+    },
+    {
+        "date": "2017-09-17T12:14:11.000Z",
+        "title": "Picture of Seat",
+        "content": "New glasses to be easily wearable during sport sessions\n\nthey could be some sound as well recorded with the ID\n\nit could be some sound as well recorded with your ID",
+        "labels": [
+            "Sport",
+            "Product",
+            "Sport",
+            "Product"
+        ],
+        "filename": "Picture of Seat.html"
+    },
+    {
+        "date": "2017-09-17T12:14:23.000Z",
+        "title": "Barakat at Vieux Manoir",
+        "content": "",
+        "filename": "Barakat at Vieux Manoir.html"
+    },
+    {
+        "date": "2017-09-17T12:18:07.000Z",
+        "title": "Put a title to this one",
+        "content": "",
+        "labels": [
+            "&#12452;&#12531;&#12473;&#12500;&#12524;&#12540;&#12471;&#12519;&#12531;",
+            "Super",
+            "Product",
+            "Product",
+            "Super",
+            "&#12452;&#12531;&#12473;&#12500;&#12524;&#12540;&#12471;&#12519;&#12531;"
+        ],
+        "filename": "Put a title to this one.html"
+    },
+    {
+        "date": "2017-09-17T12:18:30.000Z",
+        "title": "This one had not title",
+        "content": "",
+        "labels": [
+            "Product",
+            "Product"
+        ],
+        "filename": "This one had not title.html"
+    },
+    {
+        "date": "2017-09-17T12:18:48.000Z",
+        "title": "This is a new ID captured using the voice to text translation",
+        "content": "For this new project will capture all the ideas using Voice to Text translation",
+        "filename": "This is a new ID captured using the voice to text_.html"
+    },
+    {
+        "date": "2017-09-17T12:19:30.000Z",
+        "title": "New note from a different device",
+        "content": "This is another note got your from the same account but from a different device the note is also captured using Voice to Text translation.\n\n",
+        "filename": "New note from a different device.html"
+    },
+    {
+        "date": "2017-09-17T12:34:47.000Z",
+        "title": "New way to cook",
+        "content": "Il s'agit d'une nouvelle façon pour faire la cuisine\n\nThis is a new way to cook\n\n料理を作るように新しい方法になってるんです\n\n\n",
+        "labels": [
+            "Product",
+            "Product"
+        ],
+        "filename": "New way to cook.html"
+    },
+    {
+        "date": "2017-09-17T12:34:54.000Z",
+        "title": "GPS glasses",
+        "content": "These glasses have GPS such that images are geolocated\n",
+        "labels": [
+            "Product",
+            "Product"
+        ],
+        "filename": "GPS glasses.html"
+    },
+    {
+        "date": "2017-09-17T12:58:36.000Z",
+        "title": "Schema of the interface",
+        "content": "This is a schema ",
+        "filename": "Schema of the interface.html"
+    },
+    {
+        "date": "2017-09-17T13:24:16.000Z",
+        "title": "Note from the Web",
+        "content": "https://productforums.google.com/forum/#!category-topic/drive/file-and-folder-sharing/XW5tHD8p6BM\n\nHere is a note from the web",
+        "labels": [
+            "Product",
+            "Super"
+        ],
+        "filename": "Note from the Web.html"
+    },
+    {
+        "date": "2017-09-17T13:24:25.000Z",
+        "title": "This is an example of image to text extraction",
+        "content": "In that case I will first take a picture from my computer screen and then attempt to extract the text from the image based on the text extraction method that is provided by the tool.",
+        "labels": [
+            "&#12452;&#12531;&#12473;&#12500;&#12524;&#12540;&#12471;&#12519;&#12531;",
+            "Super",
+            "Sport",
+            "Product",
+            "&#12503;&#12521;&#12452;&#12505;&#12540;&#12488;",
+            "Sport",
+            "Product",
+            "Super",
+            "&#12452;&#12531;&#12473;&#12500;&#12524;&#12540;&#12471;&#12519;&#12531;",
+            "&#20181;&#20107;",
+            "&#20181;&#20107;",
+            "&#12503;&#12521;&#12452;&#12505;&#12540;&#12488;"
+        ],
+        "filename": "This is an example of image to text extraction.html"
+    }
+]
